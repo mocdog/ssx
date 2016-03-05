@@ -1,5 +1,5 @@
 # ssx
-晟轩的博客
+晟轩的博客 可以copy看下 嘿嘿
 function me(name,salary){
   this.name = name;
   this.salary = salary;
